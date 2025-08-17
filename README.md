@@ -10,8 +10,6 @@ This project is part of the **Codebasics Monthly Resume Challenge #4**, where I 
 - 🛠️ Tools: SQL, Power BI, Canva  
 - 📈 Goal: Deliver actionable insights for management through data storytelling  
 
-📌 Challenge Link – [https://codebasics.io/challenges/codebasics-resume-project-challenge/7]  
-
 ---
 
 ## 🏢 Company Overview – AtliQ Hardware  
